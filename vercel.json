@@ -1,7 +1,7 @@
 {
   "functions": {
     "app/api/live2d/route.ts": {
-      "maxDuration": 300
+      "maxDuration": 60
     }
   }
 }
